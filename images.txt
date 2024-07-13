@@ -1,1 +1,1 @@
-budtmo/docker-android:emulator_11.0 
+adguard/adguardhome:latest
