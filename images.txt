@@ -1,1 +1,2 @@
 adguard/adguardhome:latest
+selenium/standalone-chrome
