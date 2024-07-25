@@ -1,2 +1,3 @@
 adguard/adguardhome:latest
 selenium/standalone-chrome
+redis:6-alpine
