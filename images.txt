@@ -1,2 +1,1 @@
-harryliu888/audio-notes:latest
-postgres:12.19-bullseye
+savatar101/omniparse:0.1
